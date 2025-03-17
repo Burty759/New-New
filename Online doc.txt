@@ -1,0 +1,15 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Live Excel Display</title>
+    <style>
+        body { margin: 0; }
+        iframe { width: 100vw; height: 100vh; border: none; }
+    </style>
+</head>
+<body>
+    <iframe src=<iframe width="402" height="346" frameborder="0" scrolling="no" src=<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://westmade-my.sharepoint.com/personal/dave_westmade_co_uk/_layouts/15/Doc.aspx?sourcedoc={2e42c685-338b-44b3-b51e-c49929a109e1}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>></iframe>></iframe>
+</body>
+</html>
